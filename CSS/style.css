@@ -2,14 +2,15 @@
     margin: 0;
     padding: 0;
 }
+/* Row-1 Start */
 .row-1{
     background: url(/images/Computer-BG.jpg);
     width: 100%;
-    height: 550px;
+    height: 500px;
 }
 .heading-item{
     text-align: center;
-    padding-top: 320px;
+    padding-top: 250px;
 }
 .heading-item h1{
     color: white;
@@ -36,3 +37,44 @@
     padding-left: 10px;
     text-decoration: none;
 }
+/* Row-1 End */
+
+/* Row-2 Start */
+.row-2{
+    width: 100%;
+    height: 450px;
+    background: rgba(231, 228, 228, 0.82);
+}
+.yoga-section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+  }
+  .yoga-title{
+    text-align: center;
+    font-size: 32px; 
+    padding: 45px 0px;
+ }
+ .weyoga-item-all{
+    padding:  50px 0px;
+}
+.yoga-item{
+    width: 30%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+}
+/* .yoga-item i{ 
+    font-size: 33px;
+    padding-bottom: 20px;
+    color: rgb(227, 157, 45);
+} */
+.item h2{
+    font-size: 27px;
+    padding-bottom: 25px;
+}
+.wedo_item p{
+    text-align: justify;
+}
+/* Row-2 End */
+
