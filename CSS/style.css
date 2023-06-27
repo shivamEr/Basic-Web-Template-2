@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row-1{
+    background: url(/images/Computer-BG.jpg);
+    width: 100%;
+    height: 550px;
+}
+.heading-item{
+    text-align: center;
+    padding-top: 320px;
+}
+.heading-item h1{
+    color: white;
+    font-size: 35px;
+    padding-top: 50px;
+}
+.heading-item p{
+    color: rgba(255, 255, 255, 0.903);
+    padding-top: 25px;
+}
+.menu{
+    text-align: center;
+    
+}
+.menu ul{
+    padding-left: 43%;
+    padding-top: 50px;
+}
+.menu ul li{
+    float: left;
+}
+.menu ul li a{
+    color: white;
+    padding-left: 10px;
+    text-decoration: none;
+}
